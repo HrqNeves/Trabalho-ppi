@@ -6,9 +6,11 @@
   "author": "Henrique",
   "type": "module",
   "main": "index.js",
-  "express": "^5.1.0",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
