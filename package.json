@@ -1,0 +1,14 @@
+{
+  "name": "aula-2",
+  "version": "1.0.0",
+  "description": "Criando meu primeiro aplicativo web",
+  "license": "ISC",
+  "author": "Henrique",
+  "type": "module",
+  "main": "index.js",
+  "express": "^5.1.0",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
